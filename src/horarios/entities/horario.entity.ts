@@ -40,7 +40,6 @@ export class Horario {
     end: string;
   }>;
 
-  @IsEnum(week)
   @IsOptional()
   readonly weekDays: Array<week>;
 }

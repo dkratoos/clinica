@@ -23,7 +23,6 @@ export class DisponibilityService {
     // Formata prop horarios
     const arrHorarios = [];
     const ojbHorarios = this.horariosService.findAll();
-    console.log(ojbHorarios);
     const chaves = Object.keys(ojbHorarios);
 
     chaves.filter((chave) => {
