@@ -1,0 +1,69 @@
+{
+  "1": {
+      "id": 1,
+      "day": "",
+      "type": "diario",
+      "weekDays": [],
+      "intervals": [
+          {
+              "start": "14:30",
+              "end": "15:00"
+          },
+          {
+              "start": "15:10",
+              "end": "15:30"
+          }
+      ]
+  },
+  "2": {
+      "id": 2,
+      "day": "20-09-2021",
+      "type": "dia especifico",
+      "weekDays": [],
+      "intervals": [
+          {
+              "start": "14:30",
+              "end": "15:00"
+          },
+          {
+              "start": "15:00",
+              "end": "15:30"
+          }
+      ]
+  },
+  "3": {
+      "id": 3,
+      "day": "21-09-2021",
+      "type": "dia especifico",
+      "weekDays": [],
+      "intervals": [
+          {
+              "start": "14:30",
+              "end": "15:00"
+          },
+          {
+              "start": "15:10",
+              "end": "15:30"
+          }
+      ]
+  },
+  "4": {
+      "id": 4,
+      "day": "",
+      "type": "semanal",
+      "weekDays": [
+          "Terça-feira",
+          "Quinta-feira"
+      ],
+      "intervals": [
+          {
+              "start": "14:30",
+              "end": "15:00"
+          },
+          {
+              "start": "15:10",
+              "end": "15:30"
+          }
+      ]
+  }
+}
